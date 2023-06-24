@@ -12,7 +12,7 @@ model:
   end_sym: "###"
   prompt_path: "prompts/alignment.txt"
   prompt_template: '###Human: {} ###Assistant: '
-  ckpt: 'checkpoint.pth'
+  ckpt: 'prerained_minigpt4_7b.pth'
 
 
 datasets:
